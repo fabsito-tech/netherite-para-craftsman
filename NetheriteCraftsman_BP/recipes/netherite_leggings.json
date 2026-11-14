@@ -1,20 +1,23 @@
 {
   "format_version": "1.20.10",
-  "minecraft:recipe_shapeless": {
+  "minecraft:recipe_shaped": {
     "description": {
       "identifier": "netheritecraftsman:netherite_leggings"
     },
     "tags": [
       "crafting_table"
     ],
-    "ingredients": [
-      {
+    "pattern": [
+      "DI"
+    ],
+    "key": {
+      "D": {
         "item": "minecraft:diamond_leggings"
       },
-      {
+      "I": {
         "item": "minecraft:netherite_ingot"
       }
-    ],
+    },
     "result": {
       "item": "minecraft:netherite_leggings",
       "count": 1
