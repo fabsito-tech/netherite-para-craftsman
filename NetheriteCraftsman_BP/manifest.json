@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Netherite para Craftsman",
+    "description": "Recetas para conseguir lingotes, herramientas y armadura de netherite.",
+    "uuid": "22c20a21-106b-4b0c-bbac-b551c826bac2",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "a7a014d2-6968-482c-a255-ecda65587eca",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}
